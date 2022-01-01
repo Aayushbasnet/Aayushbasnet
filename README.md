@@ -1,7 +1,7 @@
 # Welcome! to [![Github Badge](https://img.shields.io/badge/-Aayushbasnet-white?style=flat&logo=github&logoColor=black&link=https://github.com/Aayushbasnet/)](https://github.com/Aayushbasnet)
 
 ## Hello there! 👋
-<p align='left'>Who am I? Hello, just call me Aayush. At the time, I am a student. I attend PoU's [Nepal College of Information Technology  (NCIT)](https://https://ncit.edu.np/). Nice to meet you 🤝</p>
+<p align='left'>Who am I? Hello, just call me Aayush. At the time, I am a student. I attend PoU's <a href="https://ncit.edu.np/">Nepal College of Information Technology (NCIT) </a>. Nice to meet you 🤝</p>
 
 ***
 ### Tech I work with 👨🏻‍💻
@@ -18,6 +18,6 @@
 [<img height="48" src="https://raw.githubusercontent.com/exendahal/exendahal/master/LinkedIn.png" />](https://www.linkedin.com/in/aayush-basnet-42ba3919a/)&nbsp;
 
 ***
-###Write me at 📧
+### Write me at 📧
 aayushbasnet07@gmail.com
 
