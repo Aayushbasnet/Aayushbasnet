@@ -3,7 +3,7 @@
 ## Hello there! 👋
 <p align='left'>Who am I? Hello, just call me Aayush. At the time, I am a student. I attend PoU's [Nepal College of Information Technology  (NCIT)](https://https://ncit.edu.np/). Nice to meet you 🤝</p>
 
-
+***
 ### Tech I work with 👨🏻‍💻
 ![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
