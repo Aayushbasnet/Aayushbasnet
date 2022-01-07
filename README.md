@@ -21,3 +21,7 @@
 ### Write me at 📧
 aayushbasnet07@gmail.com
 
+***
+## My Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushbasnet&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Aayushbasnet/)
+
