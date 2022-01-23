@@ -8,12 +8,13 @@
 
 ***
 ### Tech I work with 👨🏻‍💻
-![HTML](https://img.shields.io/badge/-HTML-282A36?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+[![HTML](/icons/HTML.svg)](https://html.com/)&nbsp;
+[![CSS3](/icons/css3.svg)](https://www.w3schools.com/css/)&nbsp;
+[![JavaScript](/icons/JavaScript.svg)](https://www.javascript.com/)&nbsp;
+[![Python](/icons/python.svg)](python.org)&nbsp;
+[![Django](/icons/django.svg)](https://www.djangoproject.com/)&nbsp;
+[![NodeJS](/icons/nodejs.svg)](https://nodejs.org/)&nbsp;
+[![Bootstrap](/icons/Bootstrap.svg)](https://getbootstrap.com/)&nbsp;
 <img align="right" alt="coding" src="coding.gif" width="400" height="280" />
 ***
 
