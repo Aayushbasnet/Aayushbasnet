@@ -13,6 +13,10 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 
 ***
+![snake gif](https://github.com/Aayushbasnet/Aayushbasnet/blob/output/github-contribution-grid-snake.gif)
+
+
+***
 ### Social Profile 💻
 [<img height="46" src="https://raw.githubusercontent.com/exendahal/exendahal/master/twitter.png" />](https://twitter.com/AayushBasnet23) &nbsp;
 [<img height="48" src="https://raw.githubusercontent.com/exendahal/exendahal/master/LinkedIn.png" />](https://www.linkedin.com/in/aayush-basnet-42ba3919a/)&nbsp;
