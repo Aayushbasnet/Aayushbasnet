@@ -14,7 +14,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-282A36?style=flat&logo=bootstrap)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-<img align="right" alt="coding" src="https://raw.githubusercontent.com/devgossips/devgossips/master/coding.gif" width="400" height="280" />
+<img align="right" alt="coding" src="coding.gif" width="400" height="280" />
 ***
 
 ### Social Profile 💻
