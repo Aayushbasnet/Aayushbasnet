@@ -14,6 +14,7 @@
 [![Python](/icons/python.svg)](python.org)&nbsp;
 [![Django](/icons/django.svg)](https://www.djangoproject.com/)&nbsp;
 [![NodeJS](/icons/nodejs.svg)](https://nodejs.org/)&nbsp;
+[![Angular](/icons/angular.svg)](https://angular.io/cli)&nbsp;
 [![Bootstrap](/icons/Bootstrap.svg)](https://getbootstrap.com/)&nbsp;
 <img align="right" alt="coding" src="coding.gif" width="400" height="280" />
 ***
