@@ -29,6 +29,6 @@ aayushbasnet07@gmail.com
 
 ***
 ## My Github Stats
-![Aayushbasnet's github stats](https://github-readme-stats.vercel.app/api?username=Aayushbasnet&show_icons=true&theme=tokyonight)
+<!-- ![Aayushbasnet's github stats](https://github-readme-stats.vercel.app/api?username=Aayushbasnet&show_icons=true&theme=tokyonight) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayushbasnet&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Aayushbasnet/)
 
