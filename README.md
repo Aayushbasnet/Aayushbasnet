@@ -11,7 +11,6 @@
 [![HTML](/icons/HTML.svg)](https://html.com/)&nbsp;
 [![CSS3](/icons/css3.svg)](https://www.w3schools.com/css/)&nbsp;
 [![JavaScript](/icons/JavaScript.svg)](https://www.javascript.com/)&nbsp;
-[![TypeScript](/icons/typescript.svg)](https://www.typescriptlang.org/)&nbsp;
 [![Python](/icons/python.svg)](python.org)&nbsp;
 [![Django](/icons/django.svg)](https://www.djangoproject.com/)&nbsp;
 [![NodeJS](/icons/nodejs.svg)](https://nodejs.org/)&nbsp;
