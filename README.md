@@ -18,6 +18,9 @@
 [![Bootstrap](/icons/Bootstrap.svg)](https://getbootstrap.com/)&nbsp;
 <img align="right" alt="coding" src="coding.gif" width="400" height="280" />
 ***
+***
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&t=u)
+***
 
 ### Social Profile 💻
 [<img height="46" src="https://raw.githubusercontent.com/exendahal/exendahal/master/twitter.png" />](https://twitter.com/AayushBasnet23) &nbsp;
