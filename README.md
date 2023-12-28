@@ -1,10 +1,11 @@
 # Welcome! to [![Github Badge](https://img.shields.io/badge/-Aayushbasnet-white?style=flat&logo=github&logoColor=black&link=https://github.com/Aayushbasnet/)](https://github.com/Aayushbasnet)
 
 ![snake gif](https://github.com/Aayushbasnet/Aayushbasnet/blob/output/github-contribution-grid-snake.gif)
+![](https://raw.githubusercontent.com/Aayushbasnet/Aayushbasnet/output/github-contribution-grid-snake.svg)
 ***
 
 ## Hello there! 👋
-<p align='left'>Who am I? Hello, just call me Aayush. At the time, I am a student. I attend PoU's <a href="https://ncit.edu.np/">Nepal College of Information Technology (NCIT) </a>. Nice to meet you 🤝</p>
+<p align='left'>Who am I? Hello, just call me Aayush. Nice to meet you 🤝</p>
 
 ***
 ### Tech I work with 👨🏻‍💻
