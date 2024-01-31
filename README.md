@@ -1,7 +1,6 @@
 # Welcome! to [![Github Badge](https://img.shields.io/badge/-Aayushbasnet-white?style=flat&logo=github&logoColor=black&link=https://github.com/Aayushbasnet/)](https://github.com/Aayushbasnet)
 
-![snake gif](https://github.com/Aayushbasnet/Aayushbasnet/blob/output/github-contribution-grid-snake.gif)
-![](https://raw.githubusercontent.com/Aayushbasnet/Aayushbasnet/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Aayushbasnet/Aayushbasnet/blob/output/github-contribution-grid-snake.svg)
 ***
 
 ## Hello there! 👋
